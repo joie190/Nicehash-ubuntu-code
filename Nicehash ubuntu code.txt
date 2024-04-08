@@ -159,3 +159,17 @@ it will take some time ...
   hit the like button & Subscribe to my Channel   
 
   if you have any doubt than leave comment...   
+
+Other methode : on ubuntu server
+
+apt-get install qt5-default
+git clone  https://github.com/nicehash/nheqminer.git
+mkdir build
+cd build
+qmake ..nheqminer/nheqminer.pro
+make
+
+
+
+
+
